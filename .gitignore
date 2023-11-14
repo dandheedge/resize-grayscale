@@ -1,0 +1,22 @@
+# Dependency directory
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Generated files
+images/*
+output/*
+
+# Environment files
+.env
+
+
+package-lock.json
